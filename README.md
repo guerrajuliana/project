@@ -1,10 +1,11 @@
 # Minha Loja
 
-Um simples sistema de CRUD (Create, Read, Update, Delete) em JavaScript.
+Um simples sistema de CRUD (Create, Read, Update, Delete) em JavaScript
 
 ## Descrição
 
-O projeto consiste em um sistema básico que permite a realização das operações CRUD com Produtos.
+O projeto consiste em um sistema básico que permite a realização das operações CRUD com Produtos, que se concentra exclusivamente no desenvolvimento do frontend usando JavaScript. Até o momento, não há integração com um banco de dados. O objetivo é fornecer uma interface de usuário interativa sem persistência de dados no momento.
+
 
 ## Funcionalidades
 
